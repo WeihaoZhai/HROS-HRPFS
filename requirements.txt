@@ -1,0 +1,29 @@
+# Core radiomics and medical image processing
+pyradiomics>=3.0.1
+SimpleITK>=2.0.0
+
+# Data science and machine learning
+numpy>=1.19.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data processing and utilities
+tqdm>=4.62.0
+
+# Jupyter support (if using notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Accelerated computing
+# numba>=0.54.0  # For accelerated numerical computing
+# joblib>=1.1.0  # Parallel processing
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# pytest-cov>=2.12.0
+# flake8>=4.0.0
+# black>=21.0.0 
